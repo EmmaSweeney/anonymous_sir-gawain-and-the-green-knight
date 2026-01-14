@@ -13,11 +13,11 @@ footer{
 /* End preface */
 
 /* Itroduction */
-ol{
+#introduction ol{
 	list-style-type: lower-roman;
 }
 
-ul{
+#introduction ul{
 	list-style-type: none;
 }
 /* End introduction */
